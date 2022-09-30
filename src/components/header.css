@@ -1,0 +1,8 @@
+.wrap_header {
+  margin: 0 10%;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 20px;
+}
